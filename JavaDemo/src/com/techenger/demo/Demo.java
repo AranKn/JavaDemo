@@ -4,12 +4,12 @@ import java.util.Scanner;
 
 public class Demo {
 	public static void main(String[] args) {
-		// System.out.println("Hello World!");
 		
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Enter the Greeting message : ");
 		int messgae = scanner.nextInt();
 		System.out.println(messgae);
+		
 		
 		
 	}
