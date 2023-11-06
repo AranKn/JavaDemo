@@ -7,10 +7,7 @@ public class Demo {
 		
 		Scanner scanner = new Scanner(System.in);
 		System.out.print("Enter the Greeting message : ");
-		int messgae = scanner.nextInt();
+		int messgae = scanner.nextInt();  
 		System.out.println(messgae);
-		
-		
-		
 	}
 }
